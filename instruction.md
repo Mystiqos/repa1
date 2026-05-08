@@ -1,2 +1,3 @@
 follow the instructions
-new line here
+new line here is
+the second added row
